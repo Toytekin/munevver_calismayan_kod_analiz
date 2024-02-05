@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "222373362005",
+    "project_id": "munevver-abc10",
+    "storage_bucket": "munevver-abc10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222373362005:android:b1e62958b026bec1afd7dc",
+        "android_client_info": {
+          "package_name": "com.example.sosyal_app_munevver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222373362005-ltsq8f31saulpe96vovsf3qtspr5op8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sosyal_app_munevver",
+            "certificate_hash": "78f018ab6d6013a4295a2d528d6fbea89400c89d"
+          }
+        },
+        {
+          "client_id": "222373362005-nasldhbe75dhqk594t5eoc94il0is3s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUq7rh32rsaJWidKODHvfhOZt8_1uBOgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222373362005-nasldhbe75dhqk594t5eoc94il0is3s5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222373362005-hap9ls2519f5f5rv30qsv770lnn1pq5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sosyalAppMunevver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
